@@ -50,7 +50,7 @@ I am **Wong Khai Shian Nicholas**, currently pursuing a **Bachelor of Computer S
 ## 📞 Connect with Me  
 
 <p>
-  <a href="www.linkedin.com/in/nicholaswkshian/">
+  <a href="https://www.linkedin.com/in/nicholaswkshian/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/nicholaswkshian/">
