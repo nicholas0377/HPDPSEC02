@@ -33,7 +33,7 @@
 | 21  | SOH HAN WEI                  |  | [:octocat:]() |<a href="" ><img src="../../images/linkedin.png" width="24px" height="24px" ></a> | <a href=""><img src="../../images/portfolio.png" width="24px"></a> |
 | 22  | TANG YAN QING                |  | [:octocat:]() |<a href="" ><img src="../../images/linkedin.png" width="24px" height="24px" ></a> | <a href=""><img src="../../images/portfolio.png" width="24px"></a> |
 | 23  | TIEW CHUAN SHEN              |  | [:octocat:]() |<a href="" ><img src="../../images/linkedin.png" width="24px" height="24px" ></a> | <a href=""><img src="../../images/portfolio.png" width="24px"></a> |
-| 24  | WONG KHAI SHIAN NICHOLAS     |  | [:octocat:]() |<a href="" ><img src="../../images/linkedin.png" width="24px" height="24px" ></a> | <a href=""><img src="../../images/portfolio.png" width="24px"></a> |
+| 24  | WONG KHAI SHIAN NICHOLAS     | nicholas0377 | [:octocat:](https://github.com/nicholas0377) |<a href="www.linkedin.com/in/nicholaswkshian" ><img src="../../images/linkedin.png" width="24px" height="24px" ></a> | <a href=""><img src="../../images/portfolio.png" width="24px"></a> |
 | 25  | WONG QIAO YING               |  | [:octocat:]() |<a href="" ><img src="../../images/linkedin.png" width="24px" height="24px" ></a> | <a href=""><img src="../../images/portfolio.png" width="24px"></a> |
 | 26  | NAVASARATHY A/L S.GANESWARAN |  | [:octocat:]() |<a href="" ><img src="../../images/linkedin.png" width="24px" height="24px" ></a> | <a href=""><img src="../../images/portfolio.png" width="24px"></a> |
 | 27  | VINESH A/L VIJAYA KUMAR      |  | [:octocat:]() |<a href="" ><img src="../../images/linkedin.png" width="24px" height="24px" ></a> | <a href=""><img src="../../images/portfolio.png" width="24px"></a> |
