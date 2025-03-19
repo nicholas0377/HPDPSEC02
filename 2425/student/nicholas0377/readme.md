@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Wong Khai Shian Nicholas! 👋</h1>
 
 <p align="center">
-  <img src="2425/student/nicholas0377/rsz_1dsc_0711.jpg" width="200" alt="Wong Khai Shian Nicholas">
+  <img src="https://github.com/nicholas0377/HPDPSEC02/blob/main/2425/student/nicholas0377/rsz_1dsc_0711.jpg?raw=true" width="200" alt="Wong Khai Shian Nicholas">
 </p>
 
 ## 🚀 About Me
